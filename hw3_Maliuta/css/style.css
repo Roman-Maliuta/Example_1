@@ -1,0 +1,50 @@
+body {
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size: 16px;
+line-height: 22px;
+margin: 0 auto;
+padding: 0;
+width: 1360px;
+}
+.zero {
+    text-align: center;
+    margin: 0 0 50px; 
+}
+.title {
+    color: orange;
+    text-decoration: none;
+    font-weight: 700;
+    margin: 20px;
+}
+.title1 {
+    width: 124px;
+    height: 142px;
+}
+h1 {
+    font-size: 40px;
+}
+.first {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 0;
+    margin: 0 0 50px;
+}
+.img {
+    width: 400px;
+}
+.second {
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid orange;
+    padding: 15px;
+    margin: 10px;
+    width: 400px;
+}
+.three {
+    font-size: 20px;
+    text-align: left;
+}
+.four {
+    text-align: left;
+    font-weight: 500;
+}
